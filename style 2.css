@@ -1,0 +1,228 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	
+}
+
+nav {
+	
+	top: 0;
+	left: 0;
+	
+	height: 100px;
+	
+	margin-top: 60px;
+	text-align: center;
+
+
+
+}
+
+li {
+	list-style: none;
+
+
+}
+a {
+	text-decoration: none;
+	color: white;
+
+}
+ nav ul li {
+ 	padding: 10px 60px;
+
+
+
+ }
+
+ nav ul {
+ 	
+	display: flex;
+	margin:0;
+	padding: 0;
+	text-align: center;
+	margin-left:270px;
+
+    
+ }
+
+ .centre p {
+ 	font-size: 90px;
+ 	text-align: center;
+ 	margin-bottom: 50px;
+ 	margin-top: 150px;
+ 	color: white;
+ 	font-weight: bold;
+ }
+
+ .centre1 h4 {
+ 	text-align: center;
+ 	margin-top: -45px;
+ 	color: white;
+ 	
+ 	
+ }
+ nav ul li a {
+ 	
+ }
+
+ section {
+ 	background-color: #75aaef;
+ padding-top: 20px;
+ padding-bottom: 300px;
+ }
+
+.part2 {
+	background-color: blue;
+	padding-top: 30px;
+	padding-bottom: 700px;
+
+}
+
+.part2 p {
+ 	font-family: 'Roboto', sans-serif;
+ 	text-align: center;
+ 	color: white;
+ 	margin-top: 70px;
+ 	font-size: 30px;
+
+
+
+ }
+
+ .logo1 img{
+ 
+ 	display: flex;
+ 	width: 100px;
+ 	margin-left:  442px;
+ 	margin-top: 180px;
+ }
+
+
+ .logo2 img{
+
+	display: flex;
+ 	width: 100px;
+ 	
+ 	margin-left: 670px;
+ 	margin-bottom: 90px;
+ 	margin-top: -90px;
+ }
+
+ .logo3 img {
+
+ display: flex;
+ 	width: 100px;
+ 	float: right;
+ 	margin-bottom: 600px;
+ 	margin-top: -200px;
+ 	margin-right: 440px;
+
+ }
+
+ .para {
+ 	display: flex;
+ 	margin-left: 470px;
+ 	margin-right: -900px;
+ 	margin-top: -120px;
+ }
+
+ .para p{
+ 	font-size: 14px;
+ 	
+
+ }
+
+ span {
+ 	font-size: 30px;
+ 	color: white;
+ 	margin-left: 10px;
+ 	
+ 	display: flex;
+ }
+
+ .para h1 {
+ 	font-size: 30px;
+ 	display: flex;
+ 	color: white;
+ 	margin-top: 80px;
+
+ }
+
+
+ .para h2 {
+ 	font-size: 30px;
+ 	display: flex;
+ 	color: white;
+ 	margin-top: 80px;
+ 	margin-left: 40px;
+ 	
+ }
+ .para h3 {
+ 	font-size: 30px;
+ 	display: flex;
+ 	color: white;
+ 	margin-top: 80px;
+ 	margin-left: 30px;
+ }
+
+ .para1 {
+ 	display: flex;
+ 	margin-top: 10px;
+ 	margin-left: 416px;
+ 	color: white;
+
+
+
+ }
+ .para2 {
+ 	display: flex;
+ 	margin-top: -18px;
+ 	margin-left: 600px;
+ 	color: white;
+ 	
+
+ }
+ .para3 {
+	
+ 	display: block;
+ 	margin-left: 92px;
+ 	margin-top: -20px;
+ 	padding-bottom: -550px;
+ 	color: white;
+ 	
+ 	
+ }
+ .parab {
+ 	display: flex;
+
+ 	
+
+
+ }
+ 
+ .savoir {
+ 	display: flex;
+ }
+  .savoir2 {
+ 	display: flex;
+ }
+  .savoir3 {
+ 	display: flex;
+ 	
+ 	margin-left: 850px;
+ }
+
+ .part3 {
+ 	background: #427af4;
+ 	padding-top: 20px;
+ 	padding-bottom: 600PX;
+ }
+
+ .part3 h6 {
+ 	color: white;
+ 	font-size: 30px;
+ text-align: center;
+
+ 
